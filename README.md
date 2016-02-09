@@ -1,2 +1,5 @@
-# gabordots
-Random Dot Kinematogram inspired stimulus
+## "gabordots"
+Variable coherence Random Dot Kinematogram (RDK) inspired stimulus
+
+# Setup
+Run `demo.m`
